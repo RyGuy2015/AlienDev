@@ -3,7 +3,7 @@
 //  AlienDev
 //
 //  Created by Ryan Ingram on 03/20/2016.
-// Copyright (c) Ryan Ingram
+//  Copyright (c) Ryan Ingram
 //
 
 import SpriteKit
